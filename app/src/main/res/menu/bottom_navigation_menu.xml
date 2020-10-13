@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:enabled="true"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/itemSearch"
+        android:enabled="true"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"/>
+    <item
+        android:id="@+id/itemShare"
+        android:enabled="true"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_add_box_24"/>
+    <item
+        android:id="@+id/itemFollowings"
+        android:enabled="true"
+        android:title="Followings"
+        android:icon="@drawable/ic_baseline_pets_24"/>
+    <item
+        android:id="@+id/itemProfile"
+        android:enabled="true"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_face_24"/>
+</menu>
